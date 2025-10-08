@@ -10,4 +10,5 @@
 - Média de desconto nas vendas por subcategoria de produto
 - Demonstração em um mapa dos Países que tiveram maior média de valor de venda
 
-📁 [Ver projeto](./projeto1-dashboard-vendas)
+📁 [Ver projeto](./projeto1-painel-vendas)
+

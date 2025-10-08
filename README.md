@@ -21,13 +21,13 @@
 ### 1. Dashboard Analítico de Vendas Globais
 📁 [Ver projeto](./projeto1-dashboard-vendas)
 
-
-
+### 2. Dashboard com Modelagem e DAX
+📁 [Ver projeto](./projeto2-dashboard-modelagem-dax)
 
 
 ## 🧰 Ferramentas utilizadas
-- *Excel:* limpeza de dados, tratamento, criação de tabelas dinâmicas  
-- *Power BI:* visualização de dados, criação de dashboards, storytelling  
+- *Power BI:* visualização de dados, criação de dashboards, storytelling, DAX, Modelagem de Dados
+- *Excel:* limpeza e tratamento de dados
 
 ---
 
